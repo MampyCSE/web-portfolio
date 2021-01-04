@@ -29,11 +29,11 @@ p{
     width: 100%;
 }
 .top-banner{
-    background-image: url(/web.portfolio/images/top-banner.png);
+    background-image: url("./web.portfolio/images/top-banner.png");
     background-repeat: no-repeat;
 }
 .dream-area{
-    background-image: url(/web.portfolio/images/dream-bg.png);
+    background-image: url("./web.portfolio/images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -51,13 +51,13 @@ section{
     background-image: linear-gradient(lightsalmon,tomato);
 }
 .experience-area{
-    background-image: url(/web.portfolio/images/exp-bg.png);
+    background-image: url("./web.portfolio/images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
     background-color: white;
 }
 .contact-area{
-    background-image: url(/web.portfolio/images/dream-bg.png);
+    background-image: url("./web.portfolio/images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
 }
