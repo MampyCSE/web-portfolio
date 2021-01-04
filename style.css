@@ -63,11 +63,21 @@ section{
 }
     
 #full-stack{
-   border-left: 7px solid;
-   border-image: linear-gradient(180deg, lightsalmon,tomato);
-   border-image-slice: 1;
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon,tomato);
+    border-image-slice: 1;
 }
 #baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue,cyan);
+    border-image-slice: 1;
+}
+#skill{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon,tomato);
+    border-image-slice: 1;
+}
+#contact{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, blue,cyan);
     border-image-slice: 1;
