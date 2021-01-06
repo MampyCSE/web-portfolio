@@ -37,13 +37,26 @@ ul{
     margin-left: 5%;
     padding-left: 2%;
 }
-.work{
+#work1{
     width: 40%;
     float: right;
     margin-left: 7%;
-    padding-left: 3%;
-    padding-top: 50px;
+    padding-right: 5px;
+    padding-top: 15px;
     padding-right: 0%;
+    position: absolute;
+
+    
+}
+#work2{
+    width: 40%;
+    float: left;
+    margin-left: 7%;
+    padding-left: 500px;
+    padding-top: 70px;
+    padding-right: 0%;
+    position: absolute;
+
     
 }
 
@@ -173,13 +186,21 @@ section{
     background-position: left;
     background: #E5E5E5;
 }
+footer a{
+    text-decoration: none;
+    font-weight: 800;
+    color: dimgrey;
+}
 
-
+  .icon img{
+    padding: 2%;
     
+  }  
 
     
 footer{
     text-align: center;
     font-size: 25px;
     padding-bottom: 200px;
+    
 }
