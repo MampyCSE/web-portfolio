@@ -26,7 +26,7 @@ ul{
 }
 
 .name-highlight{
-    color: orange;
+    color:#d53369;
 }
 .color-change{
     color: midnightblue;
@@ -161,23 +161,25 @@ section{
 }
 .link-button{
     text-decoration: none;
-    background-color: orange;
+  
     padding: 10px 20px;
     border-radius: 10px;
     color: white;
     font-weight: 700;
-    background-image: linear-gradient(lightsalmon,tomato);
+    background: linear-gradient(to right, #cbad6d, #d53369); 
    
 }
 .link-button1{
    
     text-decoration: none;
-    background-color: orange;
+ 
     padding: 15px 20px;
     border-radius: 10px 60px 40px 50px;
     color: white;
     font-weight: 700;
-    background-image: linear-gradient(lightsalmon,tomato);
+   
+    background: linear-gradient(to right, #cbad6d, #d53369); 
+    
     margin: 0px auto;
 }
 .experience-area{
