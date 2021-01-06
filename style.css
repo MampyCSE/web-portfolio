@@ -21,9 +21,6 @@ p{
     color: #363958;
     
 }
-ul{
-    color: dimgray;
-}
 
 .name-highlight{
     color:#d53369;
@@ -109,7 +106,6 @@ ul{
    left: 935px;
    top: 1454px;
    
-   font-size: 12px;
 }
 .box-shadow{
     background-color:#FFFFFF;
