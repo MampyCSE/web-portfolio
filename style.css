@@ -188,6 +188,27 @@ section{
     background-position: left;
     background: #E5E5E5;
 }
+ul{
+    width: auto;
+    float: right;
+    margin-top: 15px;
+}
+li{
+    display: inline-block;
+    padding: 25 45;
+    line-height: 50px;
+    justify-content: space-between;
+    flex-direction: column;
+    margin: 15px;
+    
+}
+a{
+    text-align: center;
+    text-decoration: none;
+    color: dimgrey;
+    font-size: 18px;
+  
+}
 footer a{
     text-decoration: none;
     font-weight: 800;
